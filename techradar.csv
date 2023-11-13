@@ -1,0 +1,12 @@
+name,ring,quadrant,isNew,description
+Agile,adopt,techniques,FALSE,Agile method
+Automerging dependant PRS,trial,techniques,FALSE,Automerging dependant PRS
+GitOps,assess,techniques,FALSE,GitOps
+Google bard,assess,tools,FALSE,Google bard
+Terratest,trial,tools,FALSE,Terratest
+Terraform,adopt,tools,FALSE,Terraform
+Java,adopt,languages & frameworks,FALSE,Java
+JSF,hold,languages & frameworks,FALSE,JSF
+Azure container,assess,platforms,FALSE,Azure container
+CloudEvents,trial,platforms,FALSE,CloudEvents
+DataOps.live,adopt,platforms,FALSE,DataOps.live
