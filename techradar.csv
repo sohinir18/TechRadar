@@ -10,3 +10,10 @@ JSF,hold,languages & frameworks,FALSE,JSF
 Azure container,assess,platforms,FALSE,Azure container
 CloudEvents,trial,platforms,FALSE,CloudEvents
 DataOps.live,adopt,platforms,FALSE,DataOps.live
+Github Actions,adopt,platforms,TRUE,Github Actions
+Run cost as architecture fitness function,assess,techniques,TRUE,Run cost as architecture fitness function
+CI/CD infrastructure as a service,adopt,techniques,FALSE,CI/CD infrastructure as a service
+TFSEC,adopt,tools,FALSE,TFSEC
+Zero trust architecture,trial,techniques,FALSE,Zero trust architecture
+Helm,trial,techniques,TRUE,Helm
+Azure Bicep,assess,languages & frameworks,TRUE,Azure Bicep
