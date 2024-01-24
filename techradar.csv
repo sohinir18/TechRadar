@@ -1,19 +1,20 @@
 name,ring,quadrant,isNew,description
-Agile,adopt,techniques,FALSE,Agile method
-Automerging dependant PRS,trial,techniques,FALSE,Automerging dependant PRS
-GitOps,assess,techniques,FALSE,GitOps
-Google bard,assess,tools,FALSE,Google bard
-Terratest,trial,tools,FALSE,Terratest
-Terraform,adopt,tools,FALSE,Terraform
-Java,adopt,languages & frameworks,FALSE,Java
-JSF,hold,languages & frameworks,FALSE,JSF
-Azure container,assess,platforms,FALSE,Azure container
-CloudEvents,trial,platforms,FALSE,CloudEvents
-DataOps.live,adopt,platforms,FALSE,DataOps.live
-Github Actions,adopt,platforms,TRUE,Github Actions
-Run cost as architecture fitness function,assess,techniques,TRUE,Run cost as architecture fitness function
-CI/CD infrastructure as a service,adopt,techniques,FALSE,CI/CD infrastructure as a service
-TFSEC,adopt,tools,FALSE,TFSEC
-Zero trust architecture,trial,techniques,FALSE,Zero trust architecture
-Helm,trial,techniques,TRUE,Helm
-Azure Bicep,assess,languages & frameworks,TRUE,Azure Bicep
+Azure DevOps,adopt,techniques,FALSE,"Azure DevOps provides an integrated set of services and tools to manage your software projects, from planning and development through testing and deployment."
+Octopus,adopt,tools,FALSE,Octopus is a deployment automation tool that helps you manage releases and automate complex application deployments and DevOps tasks
+Terraform,adopt,tools,FALSE,"Terraform is an infrastructure as code tool that lets you build, change, and version cloud and on-prem resources safely and efficiently."
+Packer,adopt,tools,FALSE,Packer is an open source tool for creating identical machine images for multiple platforms from a single source configuration. 
+PowerShell,adopt,tools,FALSE,"PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework."
+Chocolatey,hold,tools,FALSE,"Chocolatey is a machine-level, command-line package manager and installer for software on Microsoft Windows. It uses the NuGet packaging infrastructure and Windows PowerShell to simplify the process of downloading and installing software."
+Artifactory,adopt,platforms,FALSE,"Artifactory is a universal DevOps solution for hosting, managing, and distributing binaries and artifacts."
+Azure Sql,adopt,platforms,FALSE,"Azure SQL is a family of managed, secure, and intelligent products that use the SQL Server database engine in the Azure cloud. "
+Squid,hold,platforms,FALSE,"Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching."
+terraform-docs,adopt,tools,FALSE,A utility to generate documentation from Terraform modules in various output formats.
+Ansible,assess,tools,TRUE,Ansible is a suite of software tools that enables infrastructure as code.
+Consul,assess,tools,TRUE,"Consul is a service networking solution to automate network configurations, discover services, and enable secure connectivity across any cloud or runtime."
+Azure AppConfiguration,assess,platforms,TRUE,Azure App Configuration provides a service to centrally manage application settings and feature flags.
+ModelOps,assess,techniques,TRUE,"ModelOps provides an ability to monitor the models, and create a multilevel view of key metrics to see model performance in production. "
+GenAI,assess,platforms,TRUE,"Generative AI (GenAI) is a type of Artificial Intelligence that can create a wide variety of data, such as images, videos, audio, text, and 3D models."
+DataDog,assess,platforms,TRUE,"Datadog is an observability service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform. "
+PowerBI,assess,platforms,TRUE,Microsoft Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.
+Grafana,assess,platforms,TRUE,"Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web."
+Azure CAF,adopt,languages and frameworks,FALSE,Microsoft Cloud Adoption Framework for Azure. Proven guidance and best practices that help you confidently adopt the cloud and achieve business outcomes.
